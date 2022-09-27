@@ -1,13 +1,15 @@
 ### Hi there 👋
-My name is Richard Chileya, i'm a junior developer currently enrolled at Microverse. 
-💬 You can email me on (richardchileyawk@gmail.com):
+### My name is Richard Chileya, i'm a junior developer 
+I’m currently working on currently improving my coding skills at Microverse.
+##
+💬 You can email me on richardchileyawk@gmail.com
 
 <!--
 **RichardChileya/RichardChileya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭  ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
