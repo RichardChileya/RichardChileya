@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Richard Chileya, i'm a junior developer currently enrolled at Microverse. 
+💬 You can email me on (richardchileyawk@gmail.com):
 
 <!--
 **RichardChileya/RichardChileya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
