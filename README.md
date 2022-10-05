@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Coding and Big Data**
 
-- 👯 I’m looking to collaborate on **Projects** and enhance my knowledge and skills 
+- 👯 I’m looking to collaborate on **Projects** and enhance my knowledge and coding skills 
 
 
 <h2></h2>
