@@ -37,7 +37,6 @@
 <p align="center">
     <img alt="richardchileya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RichardChileya&theme=gotham&hide_border=true"/>
 </p>
-<h2 align="left">:handshake: Connect with me:</h2>
 
 
 <p align="center">
