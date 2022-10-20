@@ -19,7 +19,7 @@
 
 
 <h2></h2>
-<p align="center"><img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" /></p>
+//<p align="center"><img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" /></p>
 <br>    
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RichardChileya" alt="richardchileya" /></a> </p>
 <br>    
@@ -34,9 +34,10 @@
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
+<!-- <p align="center">
     <img alt="richardchileya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RichardChileya&theme=gotham&hide_border=true"/>
 </p>
+-->
 
 
 <p align="center">
