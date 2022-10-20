@@ -3,7 +3,7 @@
 <h2 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Enrolled%20at%20Microverse&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=NahnahAJ&label=Profile%20views&color=brightgreen&style=flat-square" alt="nahnahaj" /></p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=RichardChileya&label=Profile%20views&color=brightgreen&style=flat-square" alt="richardchileya" /></p>
   
 - 🌱 Learning: **Bootsrap | WebPack | JavaScript**
 
@@ -19,7 +19,7 @@
 
 
 <h2></h2>
-<!-- <p align="center"><img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" /></p> -->
+<p align="center"><img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" /></p>
 <br>    
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RichardChileya" alt="richardchileya" /></a> </p>
 <br>    
