@@ -15,7 +15,7 @@
 
 - 💬 Ask me about ** Coding, Sustainable Development and Blockchain **
 
-- 👯 I’m looking to collaborate on **Projects** and enhance my knowledge and coding skills 
+- 👯 I’m looking to collaborate on ** Open Source Projects** and enhance my knowledge and coding skills 
 
 
 <h2></h2>
