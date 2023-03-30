@@ -13,9 +13,9 @@
 
 - ⚡ Fun fact: **Every Commit is a step closer to finishing a project 👩🏾‍💻**
 
-- 💬 Ask me about ** Coding, Sustainable Development and Blockchain **
+- 💬 Ask me about **Coding, Sustainable Development and Blockchain**
 
-- 👯 I’m looking to collaborate on ** Open Source Projects** and enhance my knowledge and coding skills 
+- 👯 I’m looking to collaborate on **Open Source Projects** and enhance my knowledge and coding skills 
 
 
 <h2></h2>
