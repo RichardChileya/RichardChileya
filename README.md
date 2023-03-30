@@ -5,15 +5,15 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=RichardChileya&label=Profile%20views&color=brightgreen&style=flat-square" alt="richardchileya" /></p>
   
-- 🌱 Learning: **Bootsrap | WebPack | JavaScript**
+- 🌱 Learning: **Bootsrap | WebPack | JavaScript | React.JS | Ruby | Ruby on Rails**
 
 - 📫 How to reach me: **richardchileyawk@gmail.com**
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact: **I like to simply almost everything**
+- ⚡ Fun fact: **Every Commit is a step closer to finishing a project 👩🏾‍💻**
 
-- 💬 Ask me about **Coding and Big Data**
+- 💬 Ask me about **Coding, Sustainable Development and Blockchain **
 
 - 👯 I’m looking to collaborate on **Projects** and enhance my knowledge and coding skills 
 
