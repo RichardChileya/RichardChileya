@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Richard Chileya :smiley:</h1>
 <h2 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Enrolled%20at%20Microverse&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Microverse%20Graduate&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=RichardChileya&label=Profile%20views&color=brightgreen&style=flat-square" alt="richardchileya" /></p>
   
-- 🌱 Learning: **Bootsrap | WebPack | JavaScript | React.JS | Ruby | Ruby on Rails**
+- 🌱 Learning: **React Native | Node.JS | JavaScript | React.JS | Ruby | Ruby on Rails | PostgreSql**
 
 - 📫 How to reach me: **richardchileyawk@gmail.com**
 
